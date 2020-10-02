@@ -1,0 +1,14 @@
+{
+  "key": "takoswap",
+  "name": "TakoSwap",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "TAKO",
+  "defaultView": "all",
+  "address": "0x531C3A8926e4c4b4cC50DC1De83E1E7fa0B2738E",
+  "token": "0x531C3A8926e4c4b4cC50DC1De83E1E7fa0B2738E",
+  "core": [],
+  "min": 1000,
+  "invalid": [],
+  "strategies": []
+}
